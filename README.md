@@ -127,6 +127,14 @@
 </a>
 </li>
 
+<br>
+
+<li>
+<a href="https://discordapp.com/users/778382750502748160" target="_blank">
+<img src="https://img.shields.io/badge/discord:  Reimound-%233D46A9.svg?color=3D46A9&style=for-the-badge&logo=discord&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
+</a>
+</li>
+	
 </ul>
 </div>
 
@@ -138,7 +146,7 @@
 
 <div align='center'>
 
-## <b>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...✨</b>
+## <b>Just... Don't get PWNED 😉</b>
 
 </div>
 <br>
@@ -150,6 +158,4 @@
 
 <br>
 
-Credit: [Abdul Khalid](https://github.com/0xabdulkhalid)
-
-Last Edited on: 09/11/2022
+License: [MIT](https://raw.githubusercontent.com/rafaelvalle/MDI/master/LICENSE)
