@@ -20,8 +20,9 @@
 - A passionate Back-end developer
 - Playing CTF's at spare time
 - Currently studying Cybersecurity at ITESO
-- Personal website [link](D:/MyWebsite/templatemo_550_diagoona/index.html)
-- I’m currently open for an Intern or a new job opportunity, contact [me](D:/MyWebsite/templatemo_550_diagoona/contact.html)
+- Network and Cybersecurity engineer
+- Personal website [link](https://memberpress.com/wp-content/uploads/2020/12/coming-soon-page.jpg)
+- I’m currently open for an Intern or a new job opportunity, contact [me](https://memberpress.com/wp-content/uploads/2020/12/coming-soon-page.jpg)
 
 <br><br>
 
@@ -35,7 +36,7 @@
 - **Languages**:
     
     ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
-    ![Java](https://img.shields.io/badge/Java%20-%23F05033.svg?style=for-the-badge&logo=java&logoColor=white)
+    ![Java](https://img.shields.io/badge/Java%20-%23FD3A5C.svg?style=for-the-badge&logo=hotjar&logoColor=white)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
 <br>   
@@ -62,7 +63,8 @@
 
     ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
     ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
-    ![PowerShell](https://img.shields.io/badge/PowerShell-%2375a7fe?style=for-the-badge&logo=powershell&logoColor=white)
+    ![PowerShell](https://img.shields.io/badge/PowerShell-%235174B1?style=for-the-badge&logo=powershell&logoColor=white)
+    ![Cisco](https://img.shields.io/badge/Cisco-%231BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
 
 </p>
