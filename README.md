@@ -151,12 +151,4 @@
 
 </div>
 <br>
-<br>
-<br>
-<br>
-
----
-
-<br>
-
 License: [MIT](https://raw.githubusercontent.com/rafaelvalle/MDI/master/LICENSE)
