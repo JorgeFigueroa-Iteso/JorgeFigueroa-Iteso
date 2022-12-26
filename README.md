@@ -65,6 +65,7 @@
     ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
     ![PowerShell](https://img.shields.io/badge/PowerShell-%235174B1?style=for-the-badge&logo=powershell&logoColor=white)
     ![Cisco](https://img.shields.io/badge/Cisco-%231BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+    ![Blender](https://img.shields.io/badge/Blender-%23F5792A?style=for-the-badge&logo=blender&logoColor=white)
 
 
 </p>
@@ -82,9 +83,9 @@
 
 <div align="center">
 
-<a href="https://github.com/0xabdulkhalid/">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xabdulkhalid&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0xabdulkhalid&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="0xabdulkhalid"/>
+<a href="https://github.com/JorgeFigueroa-Iteso/">
+  <img src="https://github-readme-stats.vercel.app/api?username=JorgeFigueroa-Iteso&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JorgeFigueroa-Iteso&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="JorgeFigueroa-Iteso"/>
 
 </a>
 </div>
@@ -105,27 +106,27 @@
 <ul>
 
 <li>
-<a href="https://linkedin.com/in/0xabdulkhalid" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  0xabdulkhalid-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<a href="https://www.linkedin.com/in/jorge-ramón-figueroa-maya-06bb0a254/" target="_blank">
+<img src="https://img.shields.io/badge/linkedin:  Jorge Ramon Figueroa Maya-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
 
 <br>
 
 <li>
-<a href="https://twitter.com/0xabdulkhalid" target="_blank">
-<img src="https://img.shields.io/badge/twitter:  0xabdulkhalid-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
+<a href="https://twitter.com/ramonjofit" target="_blank">
+<img src="https://img.shields.io/badge/twitter:  ramonjofit-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
 </a>
 </li>
 
 <br>
 
 <li>
-<a href="mailto:0xabdulkhalid@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  0xabdulkhalid-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<a href="mailto:ramonjofit@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail:  ramonjofi-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
-	
+
 </ul>
 </div>
 
