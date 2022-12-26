@@ -21,7 +21,7 @@
 - Playing CTF's at spare time
 - Currently studying Cybersecurity at ITESO
 - Personal website [link](file:///D:/MyWebsite/templatemo_550_diagoona/index.html)
-- I’m currently open for an Intern or a new job opportunity, contact [my resume](file:///D:/MyWebsite/templatemo_550_diagoona/contact.html)
+- I’m currently open for an Intern or a new job opportunity, contact [me](D:/MyWebsite/templatemo_550_diagoona/contact.html)
 
 <br><br>
 
