@@ -63,8 +63,7 @@
 
 - **Extras**:
 
-    ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
-    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
+    ![Terminal](https://img.shields.io/badge/Terminal-%234EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
     ![PowerShell](https://img.shields.io/badge/PowerShell-%235174B1?style=for-the-badge&logo=powershell&logoColor=white)
     ![Cisco](https://img.shields.io/badge/Cisco-%231BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
     ![Blender](https://img.shields.io/badge/Blender-%23F5792A?style=for-the-badge&logo=blender&logoColor=white)
