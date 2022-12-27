@@ -45,8 +45,9 @@
 - **OS Used**:
 
    ![Windows](https://img.shields.io/badge/Windows%20-%23E34F26.svg?style=for-the-badge&logo=windows&logoColor=white)
-   ![Kali](https://img.shields.io/badge/kalilinux%20-%231572B6.svg?style=for-the-badge&logo=kalilinux&logoColor=white)
    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+   ![Kali](https://img.shields.io/badge/kalilinux%20-%231572B6.svg?style=for-the-badge&logo=kalilinux&logoColor=white)
+   ![VMware](https://img.shields.io/badge/VMware%20-%23607078.svg?style=for-the-badge&logo=VMware&logoColor=white)
     
 <br>
 
