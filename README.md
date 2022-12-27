@@ -151,5 +151,3 @@
 ## <b>Just... Don't get PWNED 😉</b>
 
 </div>
-<br>
-License: [MIT](https://raw.githubusercontent.com/rafaelvalle/MDI/master/LICENSE)
