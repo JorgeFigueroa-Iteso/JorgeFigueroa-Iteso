@@ -85,9 +85,9 @@
 <div align="center">
 
 <a href="https://github.com/JorgeFigueroa-Iteso/">
-  <img src="https://github-readme-stats.vercel.app/api?username=JorgeFigueroa-Iteso&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=706E7C&text_color=B3B1C1&bg_color=0,15181B,1e2226" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=JorgeFigueroa-Iteso&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=71747b&icon_color=706E7C&text_color=4E525B&bg_color=0,B8C5CC,C3CFE5" width="450"/>
 	
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JorgeFigueroa-Iteso&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=706E7C&text_color=D3D3D3&bg_color=0,1e2226,15181B" width="375"  alt="JorgeFigueroa-Iteso"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JorgeFigueroa-Iteso&show_icons=true&locale=en&layout=compact&line_height=20&title_color=71747b&icon_color=706E7C&text_color=4E525B&bg_color=0,C3CFE5,B8C5CC" width="375"  alt="JorgeFigueroa-Iteso"/>
 
 </a>
 </div>
